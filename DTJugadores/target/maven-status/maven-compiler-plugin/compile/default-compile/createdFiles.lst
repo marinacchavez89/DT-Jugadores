@@ -1,0 +1,6 @@
+JugadorInterFace\IJugadorService.class
+JugadorEntity\Jugador.class
+JugadorRepository\IJugadorRepository.class
+com\mycompany\dtjugadores\DTJugadores.class
+JugadorController\JugadorController.class
+JugadorService\ImpJugadorService.class
